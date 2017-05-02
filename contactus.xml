@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylecontactus.css"?>
+
+<ReachOut >
+	<Name>Pragya</Name>
+	<Contact>
+		<Mobile>MOBILENUMBER: : +91 9999999991 </Mobile>
+		<Id>EMAIL Id: goel.rev@gmail.com</Id>
+	</Contact>
+	<Name>Srishti Gupta</Name>
+	<Contact>
+		<Mobile>MOBILENUMBER: :+91 9999999992 </Mobile>
+		<Id>EMAIL Id: gupta.rev@gmail.com</Id>
+	</Contact>
+	<Name>Saumya Verma</Name>
+	<Contact>
+		<Mobile>MOBILENUMBER: : +91 007007007:D </Mobile>
+		<Id>EMAIL Id: saumya.rev@gmail.com</Id>
+	</Contact>
+	<Address>
+			<Sector>ADDRESS:INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN </Sector>
+			<City>DELHI</City>
+	</Address>
+</ReachOut>

@@ -1,0 +1,28 @@
+ReachOut{
+		background-color: white;
+		color:#D4AF37;
+		margin-left: 40pt;
+	
+	}
+Name{
+	display: block;
+	font-variant-caps: all-small-caps;
+	font-size: 30px;
+	border: 3px solid #D4AF37 ;
+	margin-top: 30px;
+	width: 15%;
+	margin-bottom: 15pt;
+	
+}
+Contact{
+	display: block;
+}
+Id{display: block;}
+Address{
+	background-color: rgb(115,60,20);
+	display: block;
+		border: 2px dashed #996515;
+	margin-top: 30px;
+	width: 25%;
+	margin-bottom: 15pt;
+}

@@ -1,0 +1,98 @@
+*{
+		font-color:#DC143C;
+	}
+		.head{
+		display: block;
+			width:100%;
+			
+			text-align: center;
+			font-size: 30px;
+			margin-top: 0;
+			padding-bottom: 20px;
+			padding-top: 20px;
+			left: 400px;
+		}
+		
+		.F1{
+			position: absolute;
+			left:100px;
+			top: 400px;
+
+		}
+		.F2{
+			position: absolute;
+			 left: 500px;
+			top: 400px;
+		}
+		.F3{
+			position: absolute;
+			left: 900px;
+			top: 400px;
+		}
+		.F4{
+			position: absolute;
+			top:750px;
+			left: 100px;
+		}
+
+		.F5{
+			position: absolute;
+			top:750px;
+			left:500px;
+		}
+		.F6{
+			position: absolute;
+			top:750px;
+			left: 900px;
+		}
+		
+		.F7{
+			position: absolute;
+			top:1100px;
+			left:100px;
+			
+		}
+		.F8{
+			position: absolute;
+			top:1100px;
+			left: 500px;
+		
+		}
+		.F9{
+			position: absolute;
+			top:1100px;
+			left: 900px;
+		}
+		.F10{
+			position: absolute;
+			top:1450px;
+			left: 350px;
+		}
+		.F11{
+			position: absolute;
+			top:1450px;
+			left: 750px;
+		}
+		.sessc{
+			
+			color: #DC143C;
+			text-align: center;
+		}
+		.ans{
+			top:350px;
+			text-align: center;
+			border-top: 2px dashed grey;
+		}
+	.sc{
+		overflow: auto;
+	}
+	.heading{
+		border: 3px groove black;
+	}
+	.xmlx{
+		display: block;
+		position: absolute;
+		text-align: center;
+		border: 2px solid grey;
+		top: 1800px;
+	}
